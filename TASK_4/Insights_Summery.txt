@@ -1,0 +1,17 @@
+Task 4: Sales Prediction using Python
+
+Key Insights
+
+1.  Advertising expenditure directly affects sales performance.
+2.  Different advertising channels contribute differently to sales.
+3.  Correlation analysis identified important business variables.
+4.  Clean data improved prediction quality.
+5.  Regression models supported future sales forecasting.
+6.  Results can support business and marketing decisions.
+
+Summary
+
+This project used Machine Learning to forecast sales and support
+data-driven decision making.
+
+Author: Abhijit Patil
